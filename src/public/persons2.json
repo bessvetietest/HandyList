@@ -1,0 +1,161 @@
+[{
+    "name": "Иван",
+    "surname": "Иванов",
+    "birthday": {
+        "day": "1",
+        "month": "2",
+        "year": "1977"
+    }
+}, {
+    "name": "Олег",
+    "surname": "Мухин",
+    "birthday": {
+        "day": "2",
+        "month": "11",
+        "year": "1990"
+    }
+}, {
+    "name": "Марианна",
+    "surname": "Маринина",
+    "birthday": {
+        "day": "5",
+        "month": "11",
+        "year": "1988"
+    }
+}, {
+    "name": "Ольга",
+    "surname": "Ивушина",
+    "birthday": {
+        "day": "14",
+        "month": "3",
+        "year": "1978"
+    }
+}, {
+    "name": "Ирина",
+    "surname": "Мурашева",
+    "birthday": {
+        "day": "21",
+        "month": "10",
+        "year": "1945"
+    }
+}, {
+    "name": "Сергей",
+    "surname": "Иванов",
+    "birthday": {
+        "day": "22",
+        "month": "7",
+        "year": "2001"
+    }
+}, {
+    "name": "Захар",
+    "surname": "Краузе",
+    "birthday": {
+        "day": "05",
+        "month": "августа",
+        "year": "2000"
+    }
+}, {
+    "name": "Васисуалий",
+    "surname": "Вавилонов",
+    "birthday": {
+        "day": "19",
+        "month": "января",
+        "year": "1936"
+    }
+}, {
+    "name": "Валерий",
+    "surname": "Тугодумов",
+    "birthday": {
+        "day": "29",
+        "month": "Февраля",
+        "year": "2008"
+    }
+}, {
+    "name": "Вартан",
+    "surname": "Заржавели",
+    "birthday": {
+        "day": "14",
+        "month": "Марта",
+        "year": "1967"
+    }
+}, {
+    "name": "Дирк",
+    "surname": "Шнайдер",
+    "birthday": {
+        "day": "6",
+        "month": "апреля",
+        "year": "1952"
+    }
+}, {
+    "name": "Владислав",
+    "surname": "Шахматов",
+    "birthday": {
+        "day": "12",
+        "month": "июля",
+        "year": "2012"
+    }
+}, {
+    "name": "Ким",
+    "surname": "Камикадзе",
+    "birthday": {
+        "day": "12",
+        "month": "июня",
+        "year": "2012"
+    }
+}, {
+    "name": "Зинаида",
+    "surname": "Свиночкина",
+    "birthday": {
+        "day": "29",
+        "month": "february",
+        "year": "1964"
+    }
+}, {
+    "name": "Любовь",
+    "surname": "Половая",
+    "birthday": {
+        "day": "14",
+        "month": "february",
+        "year": "1960"
+    }
+}, {
+    "name": "Инна",
+    "surname": "Якушева",
+    "birthday": {
+        "day": "1",
+        "month": "january",
+        "year": "1989"
+    }
+}, {
+    "name": "Елизавета",
+    "surname": "Лампова",
+    "birthday": {
+        "day": "25",
+        "month": "december",
+        "year": "1966"
+    }
+}, {
+    "name": "Елизавета",
+    "surname": "Ядвинова",
+    "birthday": {
+        "day": "6",
+        "month": "October",
+        "year": "1967"
+    }
+}, {
+    "name": "Алексей",
+    "surname": "Попов",
+    "birthday": {
+        "day": "31",
+        "month": "October",
+        "year": "1955"
+    }
+}, {
+    "name": "Марат",
+    "surname": "Павлишев",
+    "birthday": {
+        "day": "19",
+        "month": "January",
+        "year": "1945"
+    }
+}]

@@ -1,0 +1,51 @@
+.handyList {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    white-space: nowrap;
+}
+.handyList .content {
+    position: absolute;
+    margin: 0 auto;
+    width: inherit;
+}
+.handyList .group {
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: #eeeef3;
+    width: inherit;
+}
+.handyList a {
+    text-decoration:none;
+    outline:none
+}
+.handyList .group a {
+    border: 1px solid #e2e2e2;
+    color: #414244;
+    display: block;
+    padding: 0.4em;
+} 
+.handyList .group a:hover {
+    background:#e1e1e2;
+}
+.handyList .header {
+    width: inherit;
+    background: #9898a7;
+    border: solid #9898a7;
+    border-width: 2px 0;
+    box-shadow: #5a5a5a 0px 2em 3em -2.5em inset, #ffffff 0px -2em 3em -2.5em inset;
+    text-shadow: 0px 1px 1px black;
+    color: #ffffff;
+    padding: 0.2em 0.6em;
+    font-size: 20px;
+}
+.handyList .header.active {
+    position: absolute;
+    background: rgba(152, 152, 167, 0.87);
+}
+.handyList .group.hide {
+    display: none;
+}
